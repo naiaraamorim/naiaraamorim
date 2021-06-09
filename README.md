@@ -11,7 +11,7 @@
   <img align="center" alt="Rafa-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-JAVA" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="right" width="150" height="150" src="https://media.giphy.com/media/QZJIamXKfSvgrmfZaf/giphy.gif">
+  <img align="right" width="200" height="150" src="https://media.giphy.com/media/QZJIamXKfSvgrmfZaf/giphy.gif">
 </div>
   
   ##
