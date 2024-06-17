@@ -8,7 +8,8 @@
   
 </div>
 <div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naiaraamorim&" height="150" alt="activity-graph graph"  />
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=naiaraamorim&" height="150" alt="activity-graph graph"  />
+   <img src="https://github.com/naiaraamorim/quota-naiara/blob/main/quota.png" height="140" alt="quota" />
 </div>
 
 ###
@@ -54,3 +55,4 @@
 ![Snake animation](https://github.com/naiaraamorim/naiaraamorim/blob/output/github-contribution-grid-snake.svg)
 
 ###
+
